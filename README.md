@@ -8,7 +8,9 @@ Um universo inteiro dentro de uma célula. Explore, monte e aprenda com a Bibi: 
 
 **Requisitos e critérios do Checkpoint 2:** Em conformidade com o edital do FMU Tech Inovação (4º semestre de tecnologia), a entrega contempla protótipo funcional navegável com fluxo completo, documentação técnica de execução reproduzível e evidências de testes automatizados e visuais.
 
-![Tela inicial real](prints/01-inicio-desktop.png)
+<img width="1080" height="2340" alt="123981" src="https://github.com/user-attachments/assets/b574c520-70bd-4757-a374-e383f1337ca3" />
+<img width="1080" height="2340" alt="121276" src="https://github.com/user-attachments/assets/2bb4ae87-d038-45c7-9552-8577bbefa172" />
+<img width="1080" height="2340" alt="121274" src="https://github.com/user-attachments/assets/e1177120-6ac7-4d65-b10b-f9b05b174b80" />
 
 ## Comece aqui
 
