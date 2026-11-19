@@ -75,6 +75,12 @@ Não há login, analytics ou transmissão do progresso. O serviço opcional de v
 
 As nove capturas antigas foram preservadas em `prints/historico-v1`. Elas documentam a versão anterior e não comprovam a interface desta revisão.
 
+<img width="1127" height="793" alt="image" src="https://github.com/user-attachments/assets/0d34c8b3-f254-4394-bcaf-1c256b2618d3" />
+
+<img width="1162" height="872" alt="image" src="https://github.com/user-attachments/assets/b66ca3a8-7524-4a3f-8117-b17ad2f0efce" />
+
+<img width="1060" height="571" alt="image" src="https://github.com/user-attachments/assets/9aadfc3c-4455-4b7b-a1f1-e96fd46ef501" />
+
 ### Repetir os testes
 
 ```bash
