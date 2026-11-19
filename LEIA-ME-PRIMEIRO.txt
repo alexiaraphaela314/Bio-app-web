@@ -1,16 +1,24 @@
 BIOMUNDO - AVENTURA DAS CELULAS
+VERSAO 2.0.0 - REVISAO DE 18/11/2026
 
 1. Extraia todo o ZIP.
 2. Abra a pasta biomundo.
-3. Para experimentar no computador, abra index.html no Chrome/Edge
-   ou use INICIAR-WINDOWS.bat. Mantenha assets, css e js na mesma pasta.
-4. Para testar PWA localmente, use SERVIDOR-LOCAL.bat (Python 3 necessario).
-5. Para celular, publique em HTTPS conforme docs/publicacao.md.
+3. No computador, abra index.html no Chrome/Edge ou use INICIAR-WINDOWS.bat.
+4. Mantenha assets, css e js junto de index.html.
+5. Opcional: SERVIDOR-LOCAL.bat utiliza Python 3 e http://localhost:8000.
+6. Para Android, consulte docs/publicacao.md para hospedagem HTTPS.
 
-O jogo inclui 8 fases, 38 atividades e 11 estruturas.
-Sem login, cronometro ou vidas. Som e voz comecam desligados.
+NOVIDADES
+11 fases, 33 atividades e uma estrutura por fase.
+Tipo de celula identificado; explicacoes cientificas revisadas.
+Glossario com uma entrada por vez, voz voluntaria e zoom de 100 a 200%.
+Fundo estatico; ajuda, pausa e retomada preservadas.
 
-IMPORTANTE: Android fisico, instalacao PWA, offline real e persistencia
-entre recargas reais ainda precisam de validacao no ambiente de destino.
-Veja README.md, docs/testes.md e docs/relatorio-final.pdf.
-Nenhuma publicacao foi realizada.
+Para importar descobertas da versao anterior, use o mesmo navegador/endereco.
+Perguntas novas comecam do inicio; historico antigo fica preservado.
+
+TESTES
+Consulte docs/testes.md e tests/resultados-unitarios.txt.
+A validacao visual em navegador foi bloqueada neste ambiente (EPERM).
+Android fisico, voz real, instalacao e offline real ainda estao pendentes.
+Nenhuma publicacao foi realizada. Este pacote nao e um APK.

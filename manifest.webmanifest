@@ -2,7 +2,7 @@
   "id": "./",
   "name": "BioMundo - Aventura das Células",
   "short_name": "BioMundo",
-  "description": "Explore e monte modelos de células em oito fases educativas, no seu ritmo.",
+  "description": "Explore uma estrutura por fase, com glossário falado e zoom, em onze fases de biologia celular.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",

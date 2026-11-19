@@ -1,6 +1,6 @@
 /* Explicit, scope-isolated precache. Bump VERSION for each published release. */
 'use strict';
-const VERSION='1.0.0-20261009';
+const VERSION='2.0.0-20261118';
 const SCOPE=new URL(self.registration.scope);
 const PREFIX='biomundo:'+SCOPE.pathname+':';
 const CACHE=PREFIX+VERSION;
@@ -9,6 +9,7 @@ const FILES=[
  "./index.html",
  "./manifest.webmanifest",
  "./css/accessibility.css",
+ "./css/focus.css",
  "./css/responsive.css",
  "./css/style.css",
  "./js/accessibility.js",

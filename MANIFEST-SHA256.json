@@ -1,7 +1,7 @@
 {
-  "project": "BioMundo - Aventura das Celulas",
-  "version": "1.0.0",
-  "date": "2026-10-09",
+  "project": "BioMundo - Aventura das Células",
+  "version": "2.0.0",
+  "date": "2026-11-18",
   "self_excluded": "MANIFEST-SHA256.json",
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "LEIA-ME-PRIMEIRO.txt",
-      "bytes": 719,
-      "sha256": "0ccd8329b8d8038594d256bdcf605eb93d3c7b01e41a5cc74737a4e5b911cead"
+      "bytes": 1057,
+      "sha256": "89d81110ccd7ee606da79c30a93aaeab28fea28eb9a4c9ff9fc36b7d059bce7a"
     },
     {
       "path": "README.md",
-      "bytes": 9614,
-      "sha256": "423d7f7fc450543a29e4d7821646b7ad6139915feb308967a16476d9f653ca62"
+      "bytes": 8704,
+      "sha256": "c6752bc68f62462850c5bed12cd2082dfbcf39326817f65ab189a293e4fd99c3"
     },
     {
       "path": "SERVIDOR-LOCAL.bat",
@@ -180,64 +180,69 @@
       "sha256": "688146b39a389965868e4825b802b6f6c232a9472c1e7a43d66db91c9ef7b54f"
     },
     {
+      "path": "css/focus.css",
+      "bytes": 10125,
+      "sha256": "2e2d4195f030711ee9f470b06229ceb2e5693f7a16473d3e2dd81da1917af9e5"
+    },
+    {
       "path": "css/responsive.css",
       "bytes": 9566,
       "sha256": "1e43d8cfd708b70ce7074273216b958dda481ee2bd44422742aef67fecc6da2e"
     },
     {
       "path": "css/style.css",
-      "bytes": 20153,
-      "sha256": "583ff8bedbaa5e4ee7061d16f3c92469ccdf2715fa0c04147de5f764d4ac08f1"
+      "bytes": 19884,
+      "sha256": "a8ffc67ebd4412be689c777802d3c3626f6edd15641820462d82698dc7ee55cd"
     },
     {
       "path": "docs/acessibilidade.md",
-      "bytes": 2191,
-      "sha256": "78c6d09d7bcfb97b9999ca5ee1f79687c7c981a238fc855a5f685e42efa16dfc"
+      "bytes": 4575,
+      "sha256": "39a20213e8129cd2211c4be56efa65b8143d6c2e2c7332fddcb489a70bc05602"
     },
     {
       "path": "docs/conteudo-educativo.md",
-      "bytes": 3020,
-      "sha256": "91ec01af2bd2610670c5560511cc2a707cb5814d1b876159d8b662271df745d4"
+      "bytes": 6814,
+      "sha256": "9691b4370c8297c61993518cf3ce41247b17f18e1bebe6a9c48b60ea1b8ae1dc"
     },
     {
       "path": "docs/declaracao-ia.md",
-      "bytes": 1470,
-      "sha256": "7a118e0a8d2282d230561416fcaa173538e335eeb76a420ac843fe3e5acf7698"
+      "bytes": 2721,
+      "sha256": "48c6df0ff436b616ff04192a3422da7cce8b3b5f865548c543d82bba59343da4"
     },
     {
       "path": "docs/fontes.md",
-      "bytes": 1588,
-      "sha256": "114d15f632007d0ed7661fc776413f5441e156aa96c4d0c5e2b7e616dd09ac79"
+      "bytes": 5154,
+      "sha256": "603f035eca5c625c3caa26a127a7acfcef1ee65ea3b0733783027cdf4b7ef459"
     },
     {
       "path": "docs/mini-gdd.md",
-      "bytes": 3442,
-      "sha256": "dc3c6f9725c6b3e8244d1c0db19111f4889a340ebc03d9c9a673169ad8434c1b"
+      "bytes": 6876,
+      "sha256": "44a7ab95ed14f9eb8fded5008cdf452e9e3758de7cc4eeca7ff2fa77e527f5df"
     },
     {
       "path": "docs/publicacao.md",
-      "bytes": 2340,
-      "sha256": "ad1f3bf61da4c5d097fd74efb8b7df92a3a0d91e3714123f87e6fe42a294c738"
+      "bytes": 2802,
+      "sha256": "99be6d1929a6f3c1ef86849154f8f9297871cc9847204ae8640357452767893f"
     },
     {
       "path": "docs/relatorio-final.md",
-      "bytes": 6439,
-      "sha256": "e41778db48e544207b7884b876a247c53d9f298d30c999f3224e2c0b03245129"
+      "bytes": 3277,
+      "sha256": "7db0e2bd9fb7a96226b07d451585ab5a56548bc7f2d65dc32a1e207e61cc7095"
     },
     {
       "path": "docs/relatorio-final.pdf",
-      "bytes": 2065543,
-      "sha256": "20baa91420f0e46ff4392c60ac38f88236c97edaf2e624524def3cd2376459d0"
+      "bytes": 58555,
+      "sha256": "3c3247137d4b84b52d17da10b29d8c037fa9e0a6a7d3ae7cd5bfcdbcc3e5466b"
     },
     {
       "path": "docs/testes.md",
-      "bytes": 5148,
-      "sha256": "04200b76cc376e6fd309e1a50849499b54be8e9ee33764806db80ba0e946e8a8"
+      "bytes": 5350,
+      "sha256": "fa00e3db90b5431bf285b9c0dd14610aba56d1820797554e71a471b6438a559c"
     },
     {
       "path": "index.html",
-      "bytes": 2831,
-      "sha256": "d47c75b0b1795582fa88ad21df068203a8048ec9e7b3f76611a866a050251b42"
+      "bytes": 2810,
+      "sha256": "c47235499fbf51e22872d132aff6a12e46a7601bd25f508b1bf11dcc29eb02b5"
     },
     {
       "path": "js/accessibility.js",
@@ -246,18 +251,18 @@
     },
     {
       "path": "js/audio.js",
-      "bytes": 1716,
-      "sha256": "b7bf9d83d48d7779272963b7bbaa38e97992bc3ad020d8fff2fd7b01f6a8c5d7"
+      "bytes": 2044,
+      "sha256": "0057b09583d08c64007bed108a4e7ffe88a6da2b1405c4a85c5d283f0de868bc"
     },
     {
       "path": "js/content.js",
-      "bytes": 4806,
-      "sha256": "1b9a9e45983eb25cf999c6c7a49beeec39a2645aceda8a2f77f31825befd6ef9"
+      "bytes": 10019,
+      "sha256": "31d6045ae91010df07d9bb7b54d2fc75ccbbea32f2f85f1512479d586af7ccc9"
     },
     {
       "path": "js/game.js",
-      "bytes": 13081,
-      "sha256": "6430db49f739e674207435a4d7212d8247d4c1c925365ac310ab9dedae42d35d"
+      "bytes": 13600,
+      "sha256": "0a52a8141bb32c29344294fe7af411b8cdbd518d7b40c46d8db040558dcde3c1"
     },
     {
       "path": "js/interactions.js",
@@ -266,18 +271,18 @@
     },
     {
       "path": "js/levels.js",
-      "bytes": 8146,
-      "sha256": "8c8b343257b266011f9af5fcddf3a97222c8559d4f92d78ab01ff6abf2e1a437"
+      "bytes": 11353,
+      "sha256": "1678506620cfb83d52588e0e5b57538b3bf5151d97dfa304e8640610568d47f4"
     },
     {
       "path": "js/main.js",
-      "bytes": 20424,
-      "sha256": "c4464976e269ca33bfc06ad2ca4ebac11c1f2ab7a2becb6c552fc5b3255a57f9"
+      "bytes": 23900,
+      "sha256": "81b75147f497eb26e3623dee25cc76fa2f1f138641ab50f30510724649d5a981"
     },
     {
       "path": "js/progress.js",
-      "bytes": 2994,
-      "sha256": "1551cb5640abfb8e159858aa01c708351a01151ff0e7d7d61fa22414271684bf"
+      "bytes": 7105,
+      "sha256": "a46d8b7800e069e09a1690f01af561d01eea259f83d1f36b7bbf7bae959ee448"
     },
     {
       "path": "link_do_jogo.txt",
@@ -286,58 +291,58 @@
     },
     {
       "path": "manifest.webmanifest",
-      "bytes": 866,
-      "sha256": "4779878f860a8b127672d4a65bc87e902f295ea35080f08736d5a43c668ca01d"
+      "bytes": 888,
+      "sha256": "bde9f0c45a9c97fc4f7f2905dec61def5a130a5d3811ec9644af9d4129d94f30"
     },
     {
-      "path": "prints/01-inicio-desktop.png",
+      "path": "prints/LEIA-ME.md",
+      "bytes": 427,
+      "sha256": "d77ccef42233f4f06b547df45ff840b7ed591c3d7f7b0305444208f8c440cc36"
+    },
+    {
+      "path": "prints/historico-v1/01-inicio-desktop.png",
       "bytes": 599671,
       "sha256": "c96c120586c2a140a145f4feb4a9865ee0dc10adb6de995a96233cc83473a0b7"
     },
     {
-      "path": "prints/02-montagem-animal-desktop.png",
+      "path": "prints/historico-v1/02-montagem-animal-desktop.png",
       "bytes": 685850,
       "sha256": "0ffc50a1f91fbc33a672fa8c57bfdd206a4efffff7273d6ee450ac5dc400142e"
     },
     {
-      "path": "prints/03-montagem-animal-celular.png",
+      "path": "prints/historico-v1/03-montagem-animal-celular.png",
       "bytes": 271295,
       "sha256": "3e2a81f01169debf306f48ac411965fa5f5e979b8e2dc36ee2cb3770f9620f70"
     },
     {
-      "path": "prints/04-mapa-desktop.png",
+      "path": "prints/historico-v1/04-mapa-desktop.png",
       "bytes": 338285,
       "sha256": "d3b90dd164a3d3a6f980de0942e081f5fb2dcecf34e28d75d4b4e7573faaec34"
     },
     {
-      "path": "prints/05-montagem-vegetal-desktop.png",
+      "path": "prints/historico-v1/05-montagem-vegetal-desktop.png",
       "bytes": 623784,
       "sha256": "4eae10c6a647c000bc7b2876cb2d08bf59616b8fae67358d70aafa827b6d5e32"
     },
     {
-      "path": "prints/06-conclusao-desktop.png",
+      "path": "prints/historico-v1/06-conclusao-desktop.png",
       "bytes": 352230,
       "sha256": "37125cfe0ba68e949f1e84d2e93bdefeea5c4af8befea36c4593f705727434da"
     },
     {
-      "path": "prints/07-acessibilidade-desktop.png",
+      "path": "prints/historico-v1/07-acessibilidade-desktop.png",
       "bytes": 293525,
       "sha256": "98fdd1c552c4244d9442e3bd4d1bf2c9f2f9a56cc18577591862432e7025a0ad"
     },
     {
-      "path": "prints/08-montagem-vegetal-celular.png",
+      "path": "prints/historico-v1/08-montagem-vegetal-celular.png",
       "bytes": 250371,
       "sha256": "2cf09673aef1fbc3c0afae3132981d2773b5a410ef0b3cad4a3b741e6718786a"
     },
     {
-      "path": "prints/09-modelo-animal-completo-celular.png",
+      "path": "prints/historico-v1/09-modelo-animal-completo-celular.png",
       "bytes": 246051,
       "sha256": "1903cd2c8233faf64110815505f891ad081b731cc15bc0872c1ad5b3907dfbec"
-    },
-    {
-      "path": "prints/LEIA-ME.md",
-      "bytes": 632,
-      "sha256": "8628718bdd2ea58805a5367a15d5fc26a67788997cf87780229421f266ce2852"
     },
     {
       "path": "prompts/prompt-mestre.md",
@@ -346,43 +351,48 @@
     },
     {
       "path": "prompts/registro-de-producao.md",
-      "bytes": 909,
-      "sha256": "b3626a10a75e979a8de9613c6622a68c7dc2e455ac7bc1ea2cefda04510da72a"
+      "bytes": 3234,
+      "sha256": "2d75439258e7fe2993fca788ad53820dc0879709c4d998379e0df9e57d46cb88"
     },
     {
       "path": "service-worker.js",
-      "bytes": 2493,
-      "sha256": "253ec160a468ec558ad482230881f4e1a39b2b5bb9168e591cde20e9264c8eaa"
+      "bytes": 2513,
+      "sha256": "78db72f01f3914afa727946b92c2e9ca301c533911f64627fb2fe1b510e6bd26"
     },
     {
       "path": "tests/browser_test.py",
-      "bytes": 15860,
-      "sha256": "7ae4b3f91d4ede193fbf8fcfd4154ba50c24a914fcf0158dc1e333ed7527873f"
+      "bytes": 20691,
+      "sha256": "f3b043f6ea52b11fbe5b6ee1edcc02041bc462304815a61362c2cfa8b03e1ccb"
+    },
+    {
+      "path": "tests/progress.test.cjs",
+      "bytes": 11943,
+      "sha256": "f6fae37319ed3cd75249477f4a5d29d874d26cf2cdeeb4ee74cff7dd3c6822e0"
     },
     {
       "path": "tests/resultados-browser.json",
-      "bytes": 6381,
-      "sha256": "e61c4b05e71270257af203a2da5cfaadc39de9627f130ea04d0688acc67d7ffc"
+      "bytes": 5392,
+      "sha256": "d52aee1568184e622895abc1a269cff4d8d53bbc944f9e1e600f10f5a9a10bb6"
     },
     {
       "path": "tests/resultados-browser.txt",
-      "bytes": 2805,
-      "sha256": "96be6c9aabcd8a20268ce9d6c10b1027df7339bac14791d37fd96d7c3a232a6b"
+      "bytes": 4660,
+      "sha256": "399e83cdc68419671abae6432e46d7fc0917f8ad86f0ef49a8a3a2b247d9b7f1"
     },
     {
       "path": "tests/resultados-unitarios.txt",
-      "bytes": 3297,
-      "sha256": "7a1a29edd5282b528557020a042137de07ebc952d3c70ed9c1e1e23737d934e9"
+      "bytes": 4343,
+      "sha256": "817f8dc82e0ae4f37b484d8b7d8107ab18f50e467b4c68eb5b54d072b4a6336c"
     },
     {
       "path": "tests/unit.test.cjs",
-      "bytes": 7595,
-      "sha256": "6fd9ba738dd4633509b00cb9bfbfecff80cda0f2fba2117fde6922038cd0e553"
+      "bytes": 25138,
+      "sha256": "3f8bc44b1d8e80b5329909a4473eb3c9e05e84f58a1fddeeebb3dc07baa06356"
     },
     {
       "path": "tools/build_cache.py",
       "bytes": 1959,
-      "sha256": "8468ba1a2fbcd9e94b8a312d6b04cee72b577b87d2d90e07daa18a142fd7845c"
+      "sha256": "b50ae7d49785dce6320cb019d1b8d9985661027877a3cf3356dc44a64077b882"
     },
     {
       "path": "tools/verificar_pacote.py",
