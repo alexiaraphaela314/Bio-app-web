@@ -1,5 +1,9 @@
 # BioMundo — Aventura das Células
 
+# Integrantes
+Aléxia Raphaela - RA: 2025112817
+Claudio Hideki - RA: 2025118917
+
 **Versão 2.0.0 | Revisão de 18/11/2026 | Jogo educativo HTML5 em português**
 
 Introdução à biologia celular com Bibi: **11 fases, 33 atividades e uma estrutura por fase**. Cada fase apresenta uma exploração e duas perguntas curtas, uma por tela. O objetivo é reconhecer estruturas, compreender suas funções e distinguir os modelos animal nucleado e vegetal fotossintetizante.
