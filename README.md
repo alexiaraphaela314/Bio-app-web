@@ -1,6 +1,6 @@
 # BioMundo — Aventura das Células
 
-**Integrantes**
+**Integrantes:**
 Aléxia Raphaela - RA: 2025112817
 Claudio Hideki - RA: 2025118917
 
