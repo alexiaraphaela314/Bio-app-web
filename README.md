@@ -1,7 +1,7 @@
 # BioMundo — Aventura das Células
 
 **Integrantes:**
-Aléxia Raphaela - RA: 2025112817
+Aléxia Raphaela - RA: 2025112817 / 
 Claudio Hideki - RA: 2025118917
 
 **Versão 2.0.0 | Revisão de 18/11/2026 | Jogo educativo HTML5 em português**
